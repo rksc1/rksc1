@@ -4,6 +4,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
 ![IPFS](https://img.shields.io/badge/IPFS-Decentralized%20Storage-lightgrey)
 ![Linux](https://img.shields.io/badge/Linux-Production%20Systems-orange)
+
 Blockchain developer with hands-on experience building **NFTs, tokens, and smart contracts** on **Hedera Hashgraph** and Ethereum-compatible networks.
 
 🔹 Strong foundation in **Linux, backend systems, and production monitoring**  
